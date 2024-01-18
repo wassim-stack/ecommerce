@@ -1,6 +1,3 @@
-import { useUser } from "@clerk/nextjs";
-import React from "react";
-
 const Hero = () => {
   return (
     <section className="bg-gray-50">
